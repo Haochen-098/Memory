@@ -1,3 +1,6 @@
+# AUTHOR: HAOCHEN GOU
+
+
 from uagame import Window
 import random
 import pygame, time
